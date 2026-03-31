@@ -7,7 +7,7 @@
 ---
 
 - 🔭 I'm currently working on **building an in-house ATM Simulator and API-driven testing tools @ ALTO Networks**
-- 🌱 I'm currently learning **advanced distributed systems patterns, cloud-native architecture, and wrapping up my CS degree at Binus University**
+- 🌱 I'm currently learning **AI workflows & integration — using AI tools (GitHub Copilot, OpenCode, MCP, n8n, OpenClaw) to improve my daily coding process and scale AI adoption across teams and companies**
 - 👯 I'm looking to collaborate on **high-throughput backend services, distributed systems, and open-source backend tooling**
 - 🤔 I'm looking for help with **frontend/full-stack integrations for personal side projects**
 - 💬 Ask me about **Go microservices, high-throughput cart/checkout systems, idempotent APIs, Kafka, payment engineering**
@@ -113,7 +113,7 @@ Backend engineer with **8+ years of experience** (5+ years in B2B) building high
 
 ## 📚 Education
 
-- 🎓 **Bachelor's in Computer Science** — Binus University, Jakarta *(2020 – Present)*
+- 🎓 **Bachelor's in Computer Science** — Binus University, Jakarta *(2026 – Present)*
 - 🎓 **Associate's in Computer Software Engineering** — Telkom University, Bandung *(2016 – 2019)*
 
 ---
