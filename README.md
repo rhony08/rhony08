@@ -6,13 +6,13 @@
 
 ---
 
-- 🌱 I'm currently learning **AI workflows & integration — using AI tools (GitHub Copilot, OpenCode, MCP, n8n, OpenClaw) to improve my daily coding process and scale AI adoption across teams and companies**
+- 🌱 I'm currently learning **AI workflows & integration using AI tools (GitHub Copilot, OpenCode, MCP, n8n, OpenClaw) to improve my daily coding process and scale AI adoption across teams and companies**
 - 👯 I'm looking to collaborate on **high-throughput backend services, distributed systems, and open-source backend tooling**
 - 🤔 I'm looking for help with **frontend/full-stack integrations for personal side projects**
 - 💬 Ask me about **Go microservices, high-throughput cart/checkout systems, idempotent APIs, Kafka, payment engineering**
 - 📫 How to reach me: **rseptian08@gmail.com** or [LinkedIn](https://www.linkedin.com/in/rhony-septian/)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Nocturnal engineer — my best code ships after midnight 🌙**
+- ⚡ Fun fact: **Nocturnal engineer | my best code ships after midnight 🌙**
 
 ---
 
