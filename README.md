@@ -117,11 +117,11 @@ Full case studies: [Portfolio on Notion](https://citrine-professor-093.notion.si
 | Repository | Description | Language |
 |---|---|---|
 | [my-notes-as-software-engineer](https://github.com/rhony08/my-notes-as-software-engineer) | Notes and insights from my experience as a Software Engineer. Contributions welcome! | Markdown |
-| [Sample-api-golang](https://github.com/rhony08/Sample-api-golang) | Simple REST API built with Go | Go |
-| [Simple-Cart-Management-System](https://github.com/rhony08/Simple-Cart-Management-System) | Cart management system | TypeScript |
-| [dating-app-sample](https://github.com/rhony08/dating-app-sample) | Sample dating app | TypeScript |
-| [Coding-Practice](https://github.com/rhony08/Coding-Practice) | Various coding practice and test cases | Go |
-| [hackerrank-practice](https://github.com/rhony08/hackerrank-practice) | HackerRank practice solutions | JavaScript |
+
+## Open Source Contributions
+
+- [Google AI Edge Gallery issue #561](https://github.com/google-ai-edge/gallery/issues/561): Proposed a generic intent system for custom skills using the `run_intent` tool. Open feature proposal.
+- [n8n pull request #18640](https://github.com/n8n-io/n8n/pull/18640): Proposed an option for the VectorStorePGVector node to skip table validation and creation. Open and not yet merged.
 
 ---
 
