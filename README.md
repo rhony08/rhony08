@@ -1,64 +1,60 @@
-# Hi there, I'm Rhony Septian 👋
+# Hi, I'm Rhony Septian
 
-**Senior Backend Engineer | Engineering Squad Lead | Distributed Systems & High-Throughput Services**
+**Senior Backend Engineer | Engineering Squad Lead | Distributed Systems and High-Throughput Services**
 
-📍 Jakarta, Indonesia &nbsp;|&nbsp; 📧 rseptian08@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhony-septian/) &nbsp;|&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://citrine-professor-093.notion.site/Portfolio-1cc0ab6b262b8038b66cd714f6738f77)
-
----
-
-- 🌱 I'm currently learning **AI workflows & integration using AI tools (GitHub Copilot, OpenCode, MCP, n8n, OpenClaw) to improve my daily coding process and scale AI adoption across teams and companies**
-- 👯 I'm looking to collaborate on **high-throughput backend services, distributed systems, and open-source backend tooling**
-- 🤔 I'm looking for help with **frontend/full-stack integrations for personal side projects**
-- 💬 Ask me about **Go microservices, high-throughput cart/checkout systems, idempotent APIs, Kafka, payment engineering**
-- 📫 How to reach me: **rseptian08@gmail.com** or [LinkedIn](https://www.linkedin.com/in/rhony-septian/)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Nocturnal engineer | my best code ships after midnight 🌙**
+Jakarta, Indonesia &nbsp;|&nbsp; rseptian08@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhony-septian/) &nbsp;|&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://citrine-professor-093.notion.site/Portfolio-1cc0ab6b262b8038b66cd714f6738f77)
 
 ---
 
-## 🚀 About Me
-
-Backend engineer with **8+ years of experience** (5+ years in B2B) building high-throughput microservices in **Golang**, **Java**, and **TypeScript**. I specialize in:
-
-- ⚡ High-throughput cart and checkout services (~15,000 RPS)
-- 💳 Idempotent payment endpoints & financial correctness
-- 🔐 Auth systems (OAuth2) & distributed systems
-- ☁️ AWS, GCP/Kubernetes, Kafka/SQS, gRPC
-- 📊 Observability with Prometheus, Grafana, Datadog, New Relic
+- I'm currently learning **AI workflows and integrations using tools such as GitHub Copilot, OpenCode, MCP, n8n, and OpenClaw. I use them to improve my daily coding process and help teams adopt AI in practical ways.**
+- I'm interested in collaborating on **high-throughput backend services, distributed systems, and open-source backend tooling**
+- I'm looking for help with **frontend and full-stack integrations for personal side projects**
+- Ask me about **Go microservices, high-throughput cart and checkout systems, idempotent APIs, Kafka, and payment engineering**
+- You can reach me at **rseptian08@gmail.com** or through [LinkedIn](https://www.linkedin.com/in/rhony-septian/)
+- Pronouns: **He/Him**
+- Fun fact: **I'm a nocturnal engineer. My best code ships after midnight.**
 
 ---
 
-## 💼 Experience
+## About Me
 
-**Senior Software Engineer @ ALTO Networks** *(May 2024 – Present)*
-- Built in-house ATM Simulator, cutting simulator costs by >10%
-- Enabled API-driven testing, reducing QA coordination effort by ~80%
+Backend engineer with **8+ years of experience**, including more than 5 years in B2B, building high-throughput microservices with **Go**, **Java**, and **TypeScript**. My main areas of focus are:
+
+- High-throughput cart and checkout services handling roughly 15,000 requests per second
+- Idempotent payment endpoints and financial correctness
+- OAuth2 authentication systems and distributed systems
+- AWS, GCP, Kubernetes, Kafka, SQS, and gRPC
+- Observability with Prometheus, Grafana, Datadog, and New Relic
+
+---
+
+## Experience
+
+**Senior Software Engineer at ALTO Networks** *(May 2024 to Present)*
+- Built an in-house ATM simulator, cutting simulator costs by more than 10%
+- Enabled API-driven testing, reducing QA coordination effort by roughly 80%
 - Created load testing tools for capacity planning and cost efficiency
 
-**Engineering Squad Lead @ Aplikasi Super** *(Feb 2023 – May 2024)*
-- Reduced API latency from 15s → <100ms, raised uptime from 85% → 98%
+**Engineering Squad Lead at Aplikasi Super** *(Feb 2023 to May 2024)*
+- Reduced API latency from 15 seconds to less than 100 milliseconds and improved uptime from 85% to 98%
 - Increased transaction volume by 5%
-- Standardized backend architecture: graceful shutdown, circuit breaker, centralized logging
+- Standardized backend practices, including graceful shutdown, circuit breakers, and centralized logging
 
-**Senior Software Engineer @ GudangAda** *(Jun 2022 – Dec 2022)*
-- Built Proforma Invoice service, reducing payment processing from 3–5 days → 1–2 hours
-- 75% reduction in failed deployments through mentoring and process improvements
+**Technical Lead at Advotics** *(Sep 2021 to Dec 2022)*
+- Reduced task management completion time from 15 minutes to less than 1 second
+- Optimized reporting from 20 minutes for 3,000 rows to 1 second for 20,000 rows
 
-**Technical Lead @ Advotics** *(Sep 2021 – Jun 2022)*
-- Reduced task management completion time from 15 minutes → <1 second
-- Optimized reporting: 20 min for 3K rows → 1 sec for 20K rows
+**Software Engineer at Tokopedia** *(Jan 2020 to Aug 2021)*
+- Built Cart and One-Click Checkout services handling roughly 15,000 requests per second with approximately 98% uptime
+- Designed idempotent REST and gRPC APIs with distributed locking
 
-**Software Engineer @ Tokopedia** *(Jan 2020 – Aug 2021)*
-- Built Cart & One-Click Checkout services handling ~15,000 RPS with ~98% uptime
-- Designed idempotent REST/gRPC APIs with distributed locking
-
-**Medium Backend Developer @ Telkom Indonesia** *(Feb 2018 – Dec 2019)*
-- Built Nusaku.id — a tourism social media platform
+**Medium Backend Developer at Telkom Indonesia** *(Feb 2018 to Dec 2019)*
+- Built Nusaku.id, a tourism social media platform
 - Developed B2B IoT solutions for Indihome Smart
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -96,32 +92,31 @@ Backend engineer with **8+ years of experience** (5+ years in B2B) building high
 
 ---
 
-## 🏆 Portfolio Highlights
+## Portfolio Highlights
 
 | Project | Impact |
 |---|---|
-| Gateway Service @ Super | 13% uptime improvement, 75% cost reduction |
-| Cart Management @ Super | 20s → <100ms load time, zero complaints |
-| Cart & Checkout @ Tokopedia | ~15,000 RPS, 98% uptime |
-| Proforma Invoice @ GudangAda | 3–5 days → 1–2 hours processing |
-| Survey Service @ Advotics | 20 min → <1 sec, 3K → 20K row capacity |
+| Gateway Service at Super | 13% uptime improvement, 75% cost reduction |
+| Cart Management at Super | 20 seconds to less than 100 milliseconds load time, zero complaints |
+| Cart and Checkout at Tokopedia | Roughly 15,000 requests per second, 98% uptime |
+| Survey Service at Advotics | 20 minutes to less than 1 second, 3,000 to 20,000 row capacity |
 
-🔗 Full case studies: [Portfolio on Notion](https://citrine-professor-093.notion.site/Portfolio-1cc0ab6b262b8038b66cd714f6738f77)
-
----
-
-## 📚 Education
-
-- 🎓 **Bachelor's in Computer Science** — Binus University, Jakarta *(2026 – Present)*
-- 🎓 **Associate's in Computer Software Engineering** — Telkom University, Bandung *(2016 – 2019)*
+Full case studies: [Portfolio on Notion](https://citrine-professor-093.notion.site/Portfolio-1cc0ab6b262b8038b66cd714f6738f77)
 
 ---
 
-## 📦 Open Source & Side Projects
+## Education
+
+- **Bachelor's in Computer Science** at Binus University, Jakarta *(2026 to Present)*
+- **Associate's in Computer Software Engineering** at Telkom University, Bandung *(2016 to 2019)*
+
+---
+
+## Open Source and Side Projects
 
 | Repository | Description | Language |
 |---|---|---|
-| [my-notes-as-software-engineer](https://github.com/rhony08/my-notes-as-software-engineer) | Notes and insights from my experience as a Software Engineer — contributions welcome! | Markdown |
+| [my-notes-as-software-engineer](https://github.com/rhony08/my-notes-as-software-engineer) | Notes and insights from my experience as a Software Engineer. Contributions welcome! | Markdown |
 | [Sample-api-golang](https://github.com/rhony08/Sample-api-golang) | Simple REST API built with Go | Go |
 | [Simple-Cart-Management-System](https://github.com/rhony08/Simple-Cart-Management-System) | Cart management system | TypeScript |
 | [dating-app-sample](https://github.com/rhony08/dating-app-sample) | Sample dating app | TypeScript |
@@ -130,7 +125,7 @@ Backend engineer with **8+ years of experience** (5+ years in B2B) building high
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhony-septian/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://citrine-professor-093.notion.site/Portfolio-1cc0ab6b262b8038b66cd714f6738f77)
@@ -139,4 +134,4 @@ Backend engineer with **8+ years of experience** (5+ years in B2B) building high
 
 ---
 
-*Open to opportunities in backend engineering, distributed systems, and technical leadership roles.*
+Open to opportunities in backend engineering, distributed systems, and technical leadership roles.
